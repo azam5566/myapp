@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Notifications</string>
+    <string name="slide_1_desc">Get instant notifications of lectures, assignments, notes and much more</string>
+
+    <string name="slide_2_title">RealTime Tracker</string>
+    <string name="slide_2_desc">Track your attendance, lectures attended(Overall/Subjectwise) and much more in a Graphical View</string>
+
+    <string name="slide_3_title">Attendance Graphs</string>
+    <string name="slide_3_desc">Get graphical view of your attendance</string>
+
+    <string name="slide_4_title">Chat Section</string>
+    <string name="slide_4_desc">Rate and review the documents and links uploaded by other users</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
